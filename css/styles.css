@@ -378,6 +378,7 @@ nav ul li a:hover {
 }
 nav li.active a {
   color: #DDAD71;
+  background-color: #333;
 }
 
 .moveOver #hamburgerBtn::before {
@@ -398,7 +399,7 @@ nav li.active a {
 main h1 {
   padding: 1rem 10px 0.5rem 10px;
   font-size: 1.5rem;
-  color: #DDAD71;
+  color: #15324A;
   font-weight: 300;
 }
 main p {
@@ -440,7 +441,7 @@ main p {
 #cards a {
   grid-area: tel;
   text-align: center;
-  background-color: #DDAD71;
+  background-color: #15324A;
   color: white;
   text-decoration: none;
   padding: 0.5rem;

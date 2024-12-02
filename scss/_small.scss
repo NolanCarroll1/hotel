@@ -74,6 +74,7 @@ nav{
     }
     li.active a{
         color: $secondaryColor;
+        background-color: #333;
     }
 }
 .moveOver #hamburgerBtn::before{
@@ -103,7 +104,7 @@ main {
     h1 {
         padding: 1rem $gutter.5rem $gutter;
         font-size: 1.5rem;
-        color: $secondaryColor;
+        color: $primaryColor;
         font-weight: $lightWeight
     }
     p {
@@ -147,7 +148,7 @@ main {
     a{
         grid-area: tel;
         text-align: center;
-        background-color: $secondaryColor;
+        background-color: $primaryColor;
         color: white;
         text-decoration: none;
         padding: .5rem;
